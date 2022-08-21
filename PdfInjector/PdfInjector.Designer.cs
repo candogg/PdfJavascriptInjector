@@ -63,9 +63,9 @@
             this.label1.Location = new System.Drawing.Point(11, 5);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(329, 32);
+            this.label1.Size = new System.Drawing.Size(359, 32);
             this.label1.TabIndex = 1;
-            this.label1.Text = "canp0w3R PDF Injector";
+            this.label1.Text = "PDF Javascript Injector";
             // 
             // TxtPdfPath
             // 
